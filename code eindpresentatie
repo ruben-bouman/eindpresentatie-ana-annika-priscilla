@@ -1,0 +1,32 @@
+size(1000, 600);
+ellipse(200, 200, 200, 200);
+ellipse(200, 200, 10, 10);
+ellipse(150, 150, 10, 10);
+ellipse(250, 150, 10, 10);
+point(200, 250);
+point(199, 251);
+ellipse(200, 250, 50, 50);
+
+ellipse(500, 200, 200, 200);
+ellipse(460, 150, 10, 10);
+ellipse(540, 150, 10, 10);
+ellipse(500, 200, 10, 10);
+ellipse(500, 250, 50, 50);
+
+ellipse(800, 200, 200, 200);
+ellipse(760, 150, 10, 10);
+ellipse(840, 150, 10, 10);
+ellipse(800, 200, 10, 10);
+ellipse(800, 250, 50, 50);
+
+fill(0);
+textSize(30);
+text("annika ",150,350);
+
+fill(0);
+textSize(30);
+text("anastacia",450,350);
+
+fill(0);
+textSize(30);
+text("priscilla",750,350);
